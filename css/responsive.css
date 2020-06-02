@@ -1,0 +1,982 @@
+ @media (max-width: 1300px) {
+     .banner_info ul li.banner_txt1 {
+         background-position: right -90px top;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft span {
+         left: 0;
+     }
+     .interfaces_listcnt .interfaces_lft {
+         padding-right: 85px;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft {
+         padding-left: 85px;
+         padding-right: 15px;
+     }
+     .interfaces_lft span {
+         right: 0;
+     }
+ }
+ 
+ @media (max-width: 1200px) {
+     .container_info {
+         padding: 0 20px;
+     }
+ }
+ 
+ @media (max-width: 1150px) {
+     .nav_info .navbar-default .navbar-nav > li:last-child .submenu_info {
+         left: auto;
+         right: 0;
+     }
+     .banner_info ul li.banner_txt4,
+     .banner_info ul li.banner_txt3 {
+         background-position: center 0;
+     }
+     .practoinsta_listinfo .practoinsta_list br {
+         display: none;
+     }
+     .testimonials_list {
+         width: 950px;
+         margin: 0 auto;
+     }
+     .testimonials_list ul li {
+         width: 475px !important;
+         padding: 0 20px;
+     }
+     .testimonials_list ul li br {
+         display: none;
+     }
+     .country_list {
+         padding: 0;
+     }
+     .innerpage_banner {
+         padding: 100px 20px;
+     }
+     .processflows_cnt h4 {
+         padding: 0 60px;
+     }
+     .outpatient_left ul {
+         margin: 0;
+     }
+     .outpatient_right ul li a {
+         font-size: 18px;
+         background: #f8f8f8;
+     }
+     .interfaces_listnav .bx-wrapper .bx-controls-direction a.bx-prev {
+         left: -15px;
+     }
+     .interfaces_listnav .bx-wrapper .bx-controls-direction a.bx-next {
+         right: -15px;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft span {
+         left: 10px;
+     }
+     .interfaces_listcnt .interfaces_lft {
+         padding-right: 95px;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft {
+         padding-left: 95px;
+         padding-right: 15px;
+     }
+     .interfaces_lft span {
+         right: 10px;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft p,
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft ul {
+         padding-right: 0;
+     }
+     .interfaces_img {
+         text-align: center;
+     }
+     .pricing_list .pricing_listcont .pricing_listhead {
+         font-size: 17px;
+     }
+     .pricing_list .pricing_listcont .enquirenow_btn a {
+         font-size: 16px;
+     }
+     .clientstabs_info ul li {
+         margin: 0 10px;
+     }
+     .clientstabs_info ul li a,
+     .clientstabs_info ul li a:hover {
+         padding: 20px 15px 16px 15px;
+     }
+     .resources_body .arrow-left {
+         left: -10px;
+     }
+     .banner_info ul li .banner3_cont {
+         padding: 0 0 0 30px;
+     }
+ }
+ 
+ @media (min-width: 980px) and (max-width: 1020px) {}
+ 
+ @media (max-width: 980px) {
+     .nav_info .navbar-default .navbar-nav > li > a {
+         font-size: 14px;
+         padding: 15px 20px;
+     }
+     .banner_info ul li.banner_txt3 .banner_img2_1 {
+         width: 40%;
+     }
+     .banner_info ul li .banner3_cont {
+         padding: 0 0 0 20px;
+         width: 60%;
+     }
+     .testimonials_list {
+         width: 700px;
+     }
+     .testimonials_list ul li {
+         width: 350px !important;
+     }
+     .footer_nav {
+         text-align: center;
+         margin: 0 0 10px 0;
+     }
+     .socialmediaicon_list {
+         text-align: center;
+         padding: 10px 0 0 0;
+     }
+     .innerpage_banner {
+         padding: 80px 20px;
+     }
+     .modulesfor_list .modulesfor_sigle {
+         max-width: 400px;
+         margin: 0 auto 20px auto;
+     }
+     .processflows_cnt {
+         width: 90%;
+     }
+     .processflows_cnt h4 {
+         padding: 0 90px;
+         font-size: 22px;
+         line-height: 26px;
+     }
+     .locations_tabsrow h2.resp-accordion {
+         font-size: 24px;
+         font-weight: normal;
+         border: 1px solid #444;
+         border-top: 0;
+     }
+     .locations_tabsrow h2.resp-accordion:first-child {
+         border-top: 1px solid #444 !important;
+     }
+     .locations_tabsrow h2.resp-accordion.resp-tab-active {
+         color: #fff;
+         background: #4bb3de !important;
+     }
+     .locations_tabsrow h2.resp-accordion.resp-tab-active span.resp-arrow {
+         border: none;
+         border-left: 6px solid transparent;
+         border-right: 6px solid transparent;
+         border-bottom: 12px solid #fff;
+     }
+     .locations_tabsrow .resp-tab-content {
+         border: 1px solid #444;
+         border-top: 0;
+     }
+     .interfaces_listcnt {
+         padding: 40px 0;
+     }
+     .interfaces_img {
+         margin: 20px 0;
+     }
+     .interfaces_listcnt {
+         text-align: left;
+     }
+     .interfaces_lft h5 {
+         padding-left: 15px;
+         padding-right: 0;
+         border: 0;
+         border-left: 2px solid #13a6d9;
+     }
+     .interfaces_lft p {
+         padding-left: 17px;
+     }
+     .interfaces_listcnt .interfaces_lft {
+         padding-right: 15px;
+         padding-left: 95px;
+     }
+     .interfaces_lft span {
+         right: auto;
+         left: 10px;
+     }
+     .pricing_list .pricing_listcont .pricing_listhead {
+         font-size: 18px;
+     }
+     .pricing_list .pricing_listcont .enquirenow_btn a {
+         font-size: 14px;
+         padding: 7px 6px;
+     }
+     .clientstabs_info ul li {
+         margin: 0 2px;
+     }
+     .clientstabs_info ul li a,
+     .clientstabs_info ul li a:hover {
+         padding: 20px 5px 16px 5px;
+         font-size: 14px;
+     }
+     .outpatient_right {
+         float: left;
+         margin: 0 0 20px 0;
+     }
+     .outpatient_right ul li {
+         text-align: left;
+     }
+     .outpatient_right ul li:after {
+         clear: both;
+         display: block;
+         content: "";
+     }
+     .outpatient_right ul li i.digits {
+         float: left;
+         margin: 0;
+     }
+     .outpatient_right ul li.active {
+         background: none;
+     }
+     .outpatient_right ul li span {
+         margin-top: 10px;
+         display: inline-block;
+         padding-left: 10px;
+     }
+     .testimonials_topinfo .testimonials_topimg {
+         margin: 0 0 20px 0;
+     }
+     .ourpartner_row h3 {
+         font-size: 30px;
+         margin: 20px 0 10px 0;
+         padding: 0;
+     }
+     .resources_body {
+         width: 87%;
+     }
+     .vision_rght {
+         padding-top: 40px;
+     }
+     .teamlist_left {
+         padding: 10px 20px 0 0;
+         width: 140px;
+     }
+     .inventus_body {
+         width: 65% !important;
+     }
+     .banner_info ul li .banner1_cont {
+         width: 100%;
+     }
+     .banner_info ul li.banner_txt1 h2,
+     .banner_info ul li.banner_txt1 h1,
+     .banner_info ul li.banner_txt1 h5 {
+         text-align: center;
+     }
+     .banner_info ul li .banner4_cont {
+         width: 100%;
+         padding: 130px 0 0 0;
+     }
+     .whypractoinsta_listinfo .whypractoinsta_list {
+         margin-bottom: 10px;
+         margin-top: 10px;
+     }
+     .banner_info h3,
+     .banner_info h1,
+     .title_txt h3,
+     .title_txt h1,
+     .hospitalmanagement_info h3 {
+         font-size: 38px;
+     }
+     .banner_info p {
+         font-size: 20px;
+     }
+     .banner_info p br {
+         display: none;
+     }
+     .solutions_list {
+         padding: 40px 0;
+     }
+     .hospitalmanagement_info h4 {
+         font-size: 26px;
+     }
+ }
+ 
+ @media (max-width: 767px) {
+     .logo_info .logo_txt_info {
+         float: none;
+         width: 100%;
+         padding: 0 0 10px 0;
+     }
+     .top_header_nav {
+         float: left;
+     }
+     .top_header_nav ul li.requestademo_btn {
+         margin: 0;
+     }
+     header {
+         position: absolute;
+         width: auto;
+         background: none;
+         top: -57px;
+         right: 0;
+         left: auto;
+         box-shadow: none;
+         transition: none;
+     }
+     header.fixed {
+         position: fixed;
+         width: auto;
+         top: 47px;
+         right: 0;
+         left: auto;
+     }
+     .nav_info .navbar-collapse {
+         position: absolute;
+         right: 0px;
+         background: #2aafde;
+         width: 290px;
+         top: 57px;
+         padding: 0;
+     }
+     .nav_info .navbar-default {
+         padding: 0;
+     }
+     .nav_info .navbar-default .navbar-toggle {
+         background: #fff;
+         margin-right: 0;
+     }
+     .nav_info .navbar-default .navbar-toggle:hover,
+     .nav_info .navbar-default .navbar-toggle:focus {
+         background: #f2f2f2;
+     }
+     .nav_info .navbar-default .navbar-nav > li {
+         border-top: 1px solid #f7f7f7;
+         width: 100%;
+         margin: 0;
+         text-align: left;
+         padding: 0;
+     }
+     .nav_info .navbar-default .navbar-nav > li:first-child {
+         border: none;
+     }
+     .nav_info .navbar-default .navbar-nav > li > a {
+         padding: 10px 20px;
+         color: #fff !important;
+     }
+     .nav_info .navbar-nav {
+         margin: 0;
+         height: 400px;
+         overflow: auto;
+     }
+     .nav_info .navbar-default .navbar-nav > li .submenu_info,
+     .nav_info .navbar-default .navbar-nav > li:hover .submenu_info {
+         position: relative;
+         top: 0;
+         opacity: 1;
+         visibility: visible;
+         margin: 0;
+         width: 100%;
+     }
+     .nav_info .navbar-default .navbar-nav > li ul.submenu {
+         width: 100%;
+         background: none;
+     }
+     .nav_info .navbar-default .navbar-nav > li ul.submenu li a {
+         padding: 10px 10px 10px 40px;
+         border-bottom: 1px solid #fff;
+     }
+     .nav_info .navbar-default .navbar-nav > li ul.submenu li:last-child a {
+         border: 0;
+     }
+     .banner_info ul li .banner1_cont {
+         max-width: 100%;
+         margin: 0 auto;
+     }
+     .banner_info ul li h2,
+     .banner_info ul li h1 {
+         font-size: 36px;
+     }
+     .banner_info ul li {
+         padding: 40px 0 0 0;
+     }
+     .banner_info ul li.banner_txt1 h2,
+     .banner_info ul li.banner_txt1 h1,
+     .banner_info ul li.banner_txt1 h5 {
+         text-align: center;
+     }
+     .banner_info ul li.banner_txt3 .banner_img2_1 {
+         width: 30%;
+         float: none;
+         display: block;
+         margin: 0 auto;
+     }
+     .banner_info ul li .banner3_cont {
+         padding: 0;
+         width: 100%;
+         float: none;
+         margin: 0 auto;
+     }
+     .banner_info ul li.banner_txt3 h2,
+     .banner_info ul li.banner_txt3 h1 {
+         margin: 0 0 10px 0;
+     }
+     .banner_info ul li.banner_txt3 h5 {
+         margin: 0 0 15px 0;
+     }
+     .banner_info ul li .banner_img2 {
+         width: 70%;
+         float: none;
+         margin: 0 auto 10px auto;
+     }
+     .banner_info ul li .banner4_cont {
+         width: 100%;
+         padding: 130px 0 0 0;
+     }
+     .container_section {
+         padding: 40px 0;
+     }
+     .title_txt {
+         margin: 0 0 20px 0;
+     }
+     .banner_info h3,
+     .banner_info h1,
+     .title_txt h3,
+     .title_txt h1,
+     .hospitalmanagement_info h3 {
+         font-size: 32px;
+     }
+     .banner_info p {
+         font-size: 18px;
+     }
+     .hospitalmanagement_info h4 {
+         font-size: 24px;
+     }
+     .practoinsta_listinfo .practoinsta_list p {
+         min-height: inherit;
+     }
+     .testimonials_list {
+         width: 560px;
+     }
+     .testimonials_list ul li {
+         width: 280px !important;
+     }
+     .hospitalmanagement_info h3 {
+         font-size: 32px;
+     }
+     .hospitalmanagement_info h4 {
+         font-size: 28px;
+     }
+     .hospitalmanagement_info .hospitalmanagement_btns {
+         margin: 20px 0 0 0;
+     }
+     footer {
+         padding: 20px 0;
+     }
+     .innerpage_banner {
+         padding: 60px 20px;
+     }
+     .processflows_bg {
+         background: none;
+         padding: 0;
+     }
+     .processflows_list {
+         width: 100%;
+     }
+     .processflows_right .processflows_digits,
+     .processflows_left .processflows_digits {
+         display: none;
+     }
+     .processflows_cnt {
+         width: 100%;
+         top: 0;
+         margin: 20px 0;
+     }
+     .processflows_cnt h4 {
+         padding: 0;
+     }
+     .banner_info {
+         /*padding: 0 20px;*/
+     }
+     .features_heading h3 {
+         font-size: 34px;
+         margin: 0;
+     }
+     .features_list h4 {
+         font-size: 18px;
+     }
+     .interfaces_listnav.fixed {
+         top: 105px;
+     }
+     .interfaces_lft h5 {
+         font-size: 24px;
+         line-height: 30px;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft span,
+     .interfaces_lft span {
+         font-size: 60px;
+     }
+     .pricing_list .pricing_listcontinfo {
+         width: 33%;
+         margin: 0 0 20px 0;
+     }
+     .letters_nav.fixed {
+         top: 105px;
+     }
+     .clientstabs_info ul li a,
+     .clientstabs_info ul li a:hover {
+         font-size: 16px;
+     }
+     .letters_nav ul li span,
+     .letters_nav ul li {
+         width: 25px;
+         height: 25px;
+         line-height: 25px;
+         font-size: 14px;
+     }
+     .fullrow_dist ul li {
+         width: 49% !important;
+     }
+     .singel_dist {
+         width: 49%;
+     }
+     .ourpartner_row h3 {
+         font-size: 24px;
+     }
+     .resources_body {
+         width: 84%;
+     }
+     .vision_rght p {
+         font-size: 20px;
+     }
+     .teamrow_body {
+         font-size: 20px;
+     }
+     .teamrow_body h4 {
+         font-size: 24px;
+     }
+     .teamlist_left {
+         padding: 10px 20px 0 0;
+         width: 120px;
+     }
+     .inventus_body {
+         width: 57% !important;
+     }
+     .salesrelated_lft,
+     .salesrelated_rght {
+         padding: 0;
+         width: 100%;
+     }
+     .solutions_list .solutions_cont {
+         width: 100%;
+     }
+     .solutions_list .solutions_img {
+         width: 100%;
+     }
+     .solutions_list.solutions_listwhitebg .solutions_cont {
+         text-align: left;
+         float: left;
+     }
+     .solutions_list.solutions_listwhitebg .solutions_cont .solutions_contnum {
+         float: left;
+     }
+     .solutions_list.solutions_listwhitebg .solutions_cont .solutions_contnum:after {
+         right: 0;
+         left: auto;
+     }
+     .solutions_list.solutions_listwhitebg .solutions_cont .solutions_continnercont {
+         padding: 0 0 0 100px;
+     }
+     .solutions_list.solutions_listwhitebg .solutions_cont .solutions_continnercont ul li {
+         padding: 0 0 0 25px;
+         background: url(../images/check_icon.png) 4px 6px no-repeat;
+     }
+     .solutions_list .solutions_cont .solutions_continnercont h5 {
+         font-size: 24px;
+         line-height: 30px;
+     }
+     .solutions_info,
+     .primarycarecenters_info {
+         padding: 40px 0 0 0;
+     }
+     .primarycarecenters_list {
+         padding: 40px 0;
+     }
+     .healthcareprovide_info .healthcareprovide_cont {
+         padding: 30px 0 0 0;
+     }
+     .scheduleademo_info .scheduleademo_cont {
+         padding: 0px 0 40px 0;
+     }
+     .enquire_form iframe {
+         height: 880px !important;
+     }
+     .resources_body h4 {
+         font-size: 22px;
+     }
+     .freedemo_banner_info,
+     .contactus_banner_info {
+         background-position: left -80px center;
+     }
+ }
+ 
+ @media (max-width: 620px) {
+     .logo_txt_info .logo {
+         display: block;
+         border: 0;
+         margin: 0 0 8px 0;
+         padding: 0;
+         text-align: center;
+     }
+     .logo_txt_info .logo a {
+         display: inline-block;
+         vertical-align: middle;
+     }
+     .logo_txt_info p {
+         display: block;
+         text-align: center;
+     }
+     header.fixed {
+         top: 79px;
+     }
+     .banner_info ul li h2,
+     .banner_info ul li h1 {
+         font-size: 28px;
+     }
+     .banner_info ul li h5 {
+         font: normal 20px/28px 'museo100_light';
+         margin: 0 0 20px 0;
+     }
+     .banner_info ul li .banner_img2 {
+         width: 70%;
+     }
+     .banner_info ul li.banner_txt3 .banner_img2_1 {
+         width: 50%;
+         margin: 0 auto 20px auto;
+     }
+     .banner_info .bx-wrapper .bx-pager {
+         bottom: 10px;
+     }
+     .testimonials_list {
+         width: 400px;
+     }
+     .testimonials_list ul li {
+         width: 350px !important;
+         padding: 0 0px 0 50px;
+     }
+     .hospitalmanagement_info h3 {
+         font-size: 26px;
+     }
+     .hospitalmanagement_info h4 {
+         font-size: 20px;
+     }
+     .modulesfor_sigle h4 {
+         font-size: 20px;
+     }
+     .banner_info h3,
+     .banner_info h1,
+     .title_txt h3,
+     .title_txt h1,
+     .hospitalmanagement_info h3 {
+         font-size: 28px;
+     }
+     .banner_info p {
+         font-size: 16px;
+     }
+     .processflows_cnt h4 {
+         font-size: 24px;
+     }
+     .locations_tabsrow h2.resp-accordion {
+         font-size: 22px;
+     }
+     .features_heading h3 {
+         font-size: 22px;
+         font-family: 'museo300_regular';
+     }
+     .features_list h4 {
+         font-size: 16px;
+         line-height: 20px;
+         margin: 10px 0 10px 0;
+     }
+     .interfaces_lft h5 {
+         font-size: 20px;
+         line-height: 28px;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft span,
+     .interfaces_lft span {
+         font-size: 50px;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft {
+         padding-left: 75px;
+         padding-right: 15px;
+     }
+     .interfaces_listcnt .interfaces_lft {
+         padding-right: 15px;
+         padding-left: 75px;
+     }
+     .interfaces_listcnt ul {
+         padding: 20px 0 0;
+     }
+     .interfaces_listcnt ul li {
+         padding-left: 20px;
+     }
+     .pricing_list .pricing_listcontinfo {
+         width: 50%;
+     }
+     .interfaces_listnav.fixed {
+         top: 138px;
+     }
+     .letters_nav.fixed {
+         top: 138px;
+     }
+     .testimonials_topinfo .testimonials_topcont h3 {
+         font-size: 30px;
+     }
+     .testimonials_topinfo .testimonials_topcont h5 {
+         font-size: 18px;
+     }
+     .testimonials_innerlist ul {
+         background-position: 30px 0;
+     }
+     .testimonials_innerlist ul li .testimonials_innerlistimg {
+         width: 60px;
+     }
+     .testimonials_innerlist ul li .testimonials_innerlistcont {
+         padding: 0 0 0 80px;
+     }
+     .resources_left span {
+         font-size: 34px;
+         width: 60px;
+         height: 60px;
+     }
+     .resources_body h4 {
+         font-size: 20px;
+     }
+     .resources_body {
+         width: 82%;
+         padding: 20px;
+     }
+     .resources_body .arrow-left {
+         top: 13px;
+     }
+     .readarticle_btn a,
+     .readarticle_btn a:hover {
+         font-size: 16px;
+     }
+     .teamrow_left span {
+         font-size: 30px;
+     }
+     .vision_rght p {
+         font-size: 18px;
+         margin: 0 0 10px 0;
+     }
+     .teamrow_body {
+         font-size: 18px;
+     }
+     .teamrow_body h4 {
+         font-size: 22px;
+     }
+     .teamlist_left {
+         padding: 0 0 10px 0;
+         display: block;
+         width: 100%;
+         text-align: center;
+     }
+     .teamlist_body {
+         display: block;
+         width: 100%;
+         padding: 15px;
+     }
+     .teamlist_body .arrow-left {
+         display: none;
+     }
+     .inventus_body {
+         width: 100% !important;
+     }
+     .solutions_list .solutions_cont .solutions_continnercont h5 {
+         font-size: 20px;
+         line-height: 26px;
+     }
+     .solutions_list .solutions_cont .solutions_contnum {
+         font-size: 45px;
+         width: 60px;
+     }
+     .solutions_list .solutions_cont .solutions_continnercont,
+     .solutions_list.solutions_listwhitebg .solutions_cont .solutions_continnercont {
+         padding: 0 0 0 80px;
+     }
+     .scheduleademo_info .scheduleademo_cont h4 {
+         font-size: 22px;
+         margin: 0 0 10px 0;
+     }
+     .solutions_info h5 {
+         margin: 0 0 10px 0;
+         font-size: 22px;
+     }
+     .practoinstabenefits_info {
+         padding: 20px 0 0 0;
+     }
+     .solutions_list {
+         padding: 30px 0;
+     }
+     .interfaces_listcnt {
+         padding: 30px 0;
+     }
+     .outpatient_left h3 {
+         font-size: 20px;
+     }
+     .vision_row,
+     .values_row {
+         margin-bottom: 30px;
+     }
+     .values_row {
+         padding-top: 20px;
+     }
+     .faq_list .faq_cnt {
+         padding: 10px 0px;
+     }
+ }
+ 
+ @media (max-width: 470px) {
+     .logo_txt_info p {
+         font-size: 14px;
+     }
+     .nav_info .navbar-collapse {
+         width: 260px;
+     }
+     .nav_info .navbar-nav {
+         height: 280px;
+     }
+     .container_section {
+         padding: 30px 0;
+     }
+     .practoinsta_listinfo .practoinsta_list h6 {
+         font-size: 16px;
+     }
+     .whypractoinsta_listinfo .whypractoinsta_list {
+         margin-bottom: 15px;
+         margin-top: 15px;
+     }
+     .whypractoinsta_listinfo .whypractoinsta_list .whypractoinsta_img {
+         width: 70px;
+     }
+     .whypractoinsta_listinfo .whypractoinsta_list .whypractoinsta_cont {
+         padding: 10px 0 0 80px;
+     }
+     .testimonials_list {
+         width: 260px;
+     }
+     .testimonials_list ul li {
+         width: 220px !important;
+         padding: 0 0px 0 40px;
+     }
+     .hospitalmanagement_info h3 {
+         font-size: 22px;
+     }
+     .hospitalmanagement_info h4 {
+         font-size: 20px;
+     }
+     .banner_info ul li h2,
+     .banner_info ul li h1 {
+         font-size: 28px;
+     }
+     .banner_info ul li .banner_img2 {
+         width: 90%;
+     }
+     .modulesfor_sigle h4 {
+         font-size: 18px;
+     }
+     .banner_info h3,
+     .banner_info h1,
+     .title_txt h3,
+     .title_txt h1,
+     .hospitalmanagement_info h3 {
+         font-size: 26px;
+     }
+     .banner_info p {
+         font-size: 16px;
+         line-height: 25px;
+     }
+     .banner_info p br {
+         display: none;
+     }
+     .processflows_cnt h4 {
+         font-size: 20px;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft span,
+     .interfaces_lft span {
+         font-size: 40px;
+     }
+     .interfaces_listcnt:nth-child(odd) .interfaces_lft {
+         padding-left: 65px;
+         padding-right: 15px;
+     }
+     .interfaces_listcnt .interfaces_lft {
+         padding-right: 15px;
+         padding-left: 65px;
+     }
+     .pricing_list .pricing_listcontinfo {
+         width: 100%;
+     }
+     .fullrow_dist ul li {
+         width: 100% !important;
+     }
+     .singel_dist {
+         width: 100%;
+     }
+     .testimonials_topinfo .testimonials_topcont h3 {
+         font-size: 24px;
+     }
+     .testimonials_topinfo .testimonials_topcont h5 {
+         font-size: 16px;
+     }
+     .locations_tabsrow h2.resp-accordion {
+         font-size: 20px;
+     }
+     .ourpartner_row h3 {
+         font-size: 18px;
+     }
+     .resources_body {
+         width: 80%;
+         padding: 10px;
+     }
+     .resources_left span {
+         font-size: 20px;
+         width: 40px;
+         height: 40px;
+     }
+     .resources_body .arrow-left {
+         top: 2px;
+     }
+     .resources_body h4 {
+         font-size: 18px;
+         line-height: 24px;
+     }
+     .resources_body h6 {
+         font-size: 16px;
+         line-height: 24px;
+     }
+     .solutions_info,
+     .primarycarecenters_info {
+         padding: 30px 0 0 0;
+     }
+     .solutions_list .solutions_cont .solutions_contnum {
+         font-size: 30px;
+         width: 45px;
+     }
+     .solutions_list .solutions_cont .solutions_continnercont,
+     .solutions_list.solutions_listwhitebg .solutions_cont .solutions_continnercont {
+         padding: 0 0 0 55px;
+     }
+     .solutions_list .solutions_cont .solutions_continnercont h5 {
+         font-size: 18px;
+         line-height: 24px;
+     }
+     .banner_info ul li.banner_txt3 .banner_img2_1 {
+         width: 60%;
+         margin: 0 auto 20px auto;
+     }
+     .scheduleademo_info .scheduleademo_cont h4 {
+         font-size: 20px;
+     }
+     .freedemo_banner_info, .contactus_banner_info {
+    background-position: left -75px center;
+    padding: 40px 20px;
+}
+ }
